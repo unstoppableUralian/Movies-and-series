@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21512" systemVersion="21G419" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="SavedMovieEntity" representedClassName="SavedMovieEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="movieDescription" optional="YES" attributeType="String"/>
+        <attribute name="movieImage" optional="YES" attributeType="String"/>
+        <attribute name="movieTitle" optional="YES" attributeType="String"/>
+    </entity>
+</model>
